@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/gilmarserafim1/js-developer-portfolio/main/src/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/gilmarserafim1/js-developer-portfolio/main/src/data/imgs/mongo.png"
       },
       {
         "name": "Express Js",
@@ -21,7 +21,7 @@
       },
       {
         "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/gilmarserafim1/js-developer-portfolio/main/src/data/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/gilmarserafim1/js-developer-portfolio/main/src/data/imgs/node.png"
       }
     ],
     "softSkills": [
@@ -51,18 +51,18 @@
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Técnico em Informática e Manutenção de Celulares",
+      "period": "2021 - até o momento",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
+      "name": "Marinheiro",
+      "period": "2018 - 2021",
       "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
+      "name": "Bolsista ",
+      "period": "2016 - 2017",
       "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
     }
   ]
